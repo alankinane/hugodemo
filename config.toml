@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://agreeable-bay-03043c803.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Alan's Hugo Demo Site"
 theme = "hugo-ink"
